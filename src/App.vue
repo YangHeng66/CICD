@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Vue.js 3 + Vite</h1>
+        <h1>docker+jenkins+nginx</h1>
     </div>
 </template>
 
